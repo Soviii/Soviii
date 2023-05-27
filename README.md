@@ -1,7 +1,7 @@
 <h1>Greetings, Sovi here</h1>
 
 <h2>About Me</h2>
-<p> I am a college graduate (class of 2023) who received a Bachelors of Science degree in Computer Science and earned Summa Cum Laude and CS Honors (3.81 GPA). I am currently seeking entry-level positions within the realm of SWE and the tech industry. While I am interested in backend development, game development, and cybersecurity, I am open to any topic revolving around the tech industry. During my time away from a computer screen, I enjoy playing piano and practicing muay thai. </p>
+<p> I am a college graduate (class of 2023) who received a Bachelors of Science degree in Computer Science from San Diego State University and earned Summa Cum Laude and CS Honors (3.81 GPA). I am currently seeking entry-level positions within the realm of SWE and the tech industry. While I am interested in backend development, game development, and cybersecurity, I am open to any topic revolving around the tech industry. During my time away from a computer screen, I enjoy playing piano and practicing muay thai. </p>
 
 
 <h2>Tools and Technologies</h2>
