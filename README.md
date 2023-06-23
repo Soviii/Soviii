@@ -59,8 +59,9 @@
 
 <h2> Contact Me </h2>
 <div>
-  <a href="https://www.linkedin.com/in/sovial-sonzeu/">
+  <a href="https://www.linkedin.com/in/sovial-sonzeu/" target="_blank">
     <img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
+
 
