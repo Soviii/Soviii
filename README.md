@@ -32,6 +32,12 @@
   <li><a href="https://github.com/Soviii/Stocks-News">Link To Github Repository</a></li>
 </ul>
 
+<h4>85c Bakery Requests Off Calendar</h4>
+<ul>
+  <li>React, Node.js, MongoDB</li>
+  <li><a href="https://github.com/sophiacanja/85RequestOffCalendar">Link To Github Repository</a></li>
+</ul>
+
 <h4>Icy Delivery</h4>
 <ul>
   <li>React, Node.js, MongoDB</li>
