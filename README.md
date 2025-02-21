@@ -1,7 +1,7 @@
 <h1>Greetings, Sovi here</h1>
 
 <h2>About Me</h2>
-<p> I am a college graduate (class of 2023) who received a Bachelors of Science degree in Computer Science from San Diego State University and earned Summa Cum Laude and CS Honors (3.81 GPA). I am currently seeking entry-level positions within the realm of SWE and the tech industry. While I am interested in backend development, game development, and cybersecurity, I am open to any topic revolving around the tech industry. During my time away from a computer screen, I enjoy playing piano and practicing muay thai. </p>
+<p> I am a college graduate (class of 2023) who received a Bachelors of Science degree in Computer Science from San Diego State University and earned Summa Cum Laude and CS Honors (3.81 GPA). I currently work as a software engineer (not disclosing company for privacy). While I am interested in backend development, game development, and cybersecurity, I am open to any topic revolving around the tech industry. During my time away from a computer screen, I enjoy playing piano and practicing muay thai. </p>
 
 
 <h2>Tools and Technologies</h2>
@@ -26,28 +26,28 @@
   <li><a href="https://github.com/Soviii/Wordle-In-Terminal">Link To Github Repository</a></li>
 </ul>
 
-<h4>News and Stocks Reporter</h4>
-<ul>
-  <li>Python, Alpha Vantage API, News REST API</li>
-  <li><a href="https://github.com/Soviii/Stocks-News">Link To Github Repository</a></li>
-</ul>
-
 <h4>85c Bakery Requests Off Calendar</h4>
 <ul>
   <li>React, Node.js, MongoDB</li>
   <li><a href="https://github.com/sophiacanja/85RequestOffCalendar">Link To Github Repository</a></li>
 </ul>
 
-<h4>Icy Delivery</h4>
-<ul>
-  <li>React, Node.js, MongoDB</li>
-  <li><a href="https://github.com/Soviii/Icy-Delivery">Link To Github Repository</a></li>
-</ul>
-
 <h4>Close-The-Door-Inator Arduino Project</h4>
 <ul>
   <li>Arduino, C++/C </li>
   <li><a href="https://github.com/Soviii/Close-The-Door-Inator">Link To Github Repository</a></li>
+</ul>
+
+<h4>News and Stocks Reporter</h4>
+<ul>
+  <li>Python, Alpha Vantage API, News REST API</li>
+  <li><a href="https://github.com/Soviii/Stocks-News">Link To Github Repository</a></li>
+</ul>
+
+<h4>Icy Delivery</h4>
+<ul>
+  <li>React, Node.js, MongoDB</li>
+  <li><a href="https://github.com/Soviii/Icy-Delivery">Link To Github Repository</a></li>
 </ul>
 
 <h4>Slime Jump</h4>
@@ -61,7 +61,6 @@
     <li>Unity, C#</li>
     <li> <a href="https://github.com/Soviii/Blocky-Archer">Link to Github Repository</a></li>
 </ul>
-
 
 <h2> Contact Me </h2>
 <div>
