@@ -20,6 +20,12 @@
 <br>
 
 <h2> Notable Projects </h2>
+<h4>kAIn</h4>
+<ul>
+  <li>React.js, Java Spring Boot, Postgres, Docker, Localstack & AWS S3, Redis, JWT & HttpOnly</li>
+  <li><a href="https://github.com/Soviii/kAIn">Link To Github Repository</a></li>
+</ul>
+
 <h4>Wordle in Terminal</h4>
 <ul>
   <li>Python</li>
